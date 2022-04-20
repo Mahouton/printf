@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * parser - Receives the main string and all the necessary parameters
+ * get_print - Receives the main string and all the necessary parameters
  * to print a formated string.
  * @format: a string containing all the desired characters.
  * @func_list: a list of all the possible functions
